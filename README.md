@@ -1,4 +1,4 @@
-# Assignment. Binary Heap
+# Assignment 04. Binary Heap
 
 [![Build Status](../../actions/workflows/classroom.yml/badge.svg)](../../actions/workflows/classroom.yml)
 ![Points bar](../../blob/badges/.github/badges/points-bar.svg)
